@@ -1,0 +1,4 @@
+paho-mqtt
+prompt_toolkit
+playsound
+PyObjC
